@@ -13,7 +13,8 @@ I filled missing data with mean and most frequent, resulting in no missing data 
 
 
 ## Results
-[sample image](project_1_image_1.png)
+![image](https://user-images.githubusercontent.com/106834973/186798533-534ccecf-0277-4f72-b30e-2d043f0d41a7.png)
+
 
 
 #### Visual 1 Title
